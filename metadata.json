@@ -1,0 +1,6 @@
+{
+  "name": "SVM Cats and Dogs Classifier",
+  "description": "An interactive Support Vector Machine (SVM) applet that processes cat and dog images, extracts real visual features (Sobel edge texture and color warmth), and visualizes the SVM decision bound and margins in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
